@@ -13,8 +13,8 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("FasterChem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5cae3dd9326f24ae0155299346ffe38a8311d6d")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3c7261d05b6fabb6732eba38a0554277e72673d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FasterChem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FasterChem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
