@@ -25,9 +25,3 @@ Launch the game – the Chemistry Station will now craft items faster!
 Designed for Schedule 1.
 
 Should work with most other mods that don’t override Chemistry Station timings.
-
-🚀 Future Plans
-
-Config option for custom crafting speeds.
-
-Possible expansion to other crafting stations.
