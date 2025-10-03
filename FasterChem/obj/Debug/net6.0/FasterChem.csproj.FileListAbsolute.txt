@@ -1,0 +1,6 @@
+C:\Users\Simone\Source\Repos\Faster\FasterChem\FasterChem\obj\Debug\net6.0\FasterChem.csproj.AssemblyReference.cache
+C:\Users\Simone\Source\Repos\Faster\FasterChem\FasterChem\obj\Debug\net6.0\FasterChem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simone\Source\Repos\Faster\FasterChem\FasterChem\obj\Debug\net6.0\FasterChem.AssemblyInfoInputs.cache
+C:\Users\Simone\Source\Repos\Faster\FasterChem\FasterChem\obj\Debug\net6.0\FasterChem.AssemblyInfo.cs
+C:\Users\Simone\Source\Repos\Faster\FasterChem\FasterChem\obj\Debug\net6.0\FasterChem.csproj.CoreCompileInputs.cache
+C:\Users\Simone\Source\Repos\Faster\FasterChem\FasterChem\obj\Debug\net6.0\FasterChem.sourcelink.json
