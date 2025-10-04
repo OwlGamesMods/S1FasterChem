@@ -24,6 +24,3 @@ Launch the game – the Chemistry Station will now craft items faster!
 Designed for Schedule 1.
 
 Should work with most other mods that don’t override Chemistry Station timings.
-
-**Download Source Code .zip:**
-https://github.com/OwlGamesMods/S1FasterChem/archive/refs/heads/main.zip
