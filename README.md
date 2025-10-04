@@ -12,7 +12,7 @@ A lightweight mod that speeds up the Chemistry Station crafting process in Sched
 
 📥 Installation
 
-Download the latest release from Releases
+Download the latest release from Releases **Or** from Thunderstore: https://thunderstore.io/c/schedule-i/p/OwlGamesMods/FasterChem/
 .
 
 Extract the files into your game’s Mods folder.
